@@ -7,8 +7,6 @@
   language-code="en"
 ></df-messenger>
 
-<iframe height="430" width="350" src="https://bot.dialogflow.com/amaguaya_mirka"></iframe>
-
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
